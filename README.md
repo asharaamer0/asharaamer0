@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hey there 🫡
 
-<!--
-**asharaamer0/asharaamer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Ashar](https://asharaamer.dev), a student developer based in Pakistan.
 
-Here are some ideas to get you started:
+I build whatever my mind entails
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+God forbid I have to do something manually, I'll automate it and ship it.
+
+My main tech stack is Rust, Typescript, Python, Java, and C++. My favorite tools are Figma, After Effects, and Claude. 
+
+I've got a bunch of pinned projects, but my favorite one is Kuro.
+
+I've probably made over 50 repos in the past, but probably have over 100 privately.
+
+## Fun facts:
+- I have a cat
+- I have over 1000 hours in After Effects
+- My favorite show is Suits
+- Hobbies: shows, automating things, and designing things.
