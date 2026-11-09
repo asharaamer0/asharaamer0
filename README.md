@@ -7,7 +7,7 @@ God forbid I have to do something manually, I'll automate it and ship it.
 
 My main tech stack is Rust, Typescript, Python, Java, and C++. My favorite tools are Figma, After Effects, and Claude. 
 
-I've probably made over 50 repos in the past, but probably have over 100 privately.
+I love to automate things, but sometimes, I just zone off into making C++ modifications to games for fun.
 
 I've got a bunch of pinned projects, but my favorite one is [OpenKuro](https://github.com/asharaamer0/OpenKuro).
 
